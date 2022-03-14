@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzanHMd
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning machine learning
 
 <!---
 OzanHMd/OzanHMd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
